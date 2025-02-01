@@ -1,0 +1,5 @@
+Frontend: React.js, TailwindCSS, Monaco Editor.
+Backend: FastAPI / Node.js with Express.js.
+Execution Layer: Docker containers for safe code execution.
+AI Models: OpenAI Codex, Gemini, Llama, Custom ML models.
+Cloud & Storage: AWS S3 / Firebase for file management.
