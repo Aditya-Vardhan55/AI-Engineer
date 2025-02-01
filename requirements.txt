@@ -4,3 +4,8 @@ python-multipart
 faiss-cpu 
 sentence-transformers 
 pinecone-client
+transformers 
+datasets 
+torch 
+peft 
+accelerate
